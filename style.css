@@ -1,0 +1,16 @@
+body{
+text-align: center;
+}
+#menu{
+color: aqua;
+ font-size:25px; 
+
+}
+.movie_head{
+font-size:20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+display:inline-block;
+    width:100%;
+}
